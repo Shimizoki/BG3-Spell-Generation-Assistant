@@ -1,0 +1,10 @@
+[
+    "OncePerAttack",
+    "OncePerTurn",
+    "OncePerCombat",
+    "OncePerRest",
+    "OncePerTurnNoRealtime",
+    "OncePerShortRest",
+    "OncePerRestPerItem",
+    "OncePerShortRestPerItem"
+]

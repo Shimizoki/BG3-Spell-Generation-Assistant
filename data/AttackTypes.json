@@ -1,0 +1,10 @@
+[
+    "MeleeOffHandWeaponAttack",
+    "MeleeSpellAttack",
+    "MeleeUnarmedAttack",
+    "MeleeWeaponAttack",
+    "RangedOffHandWeaponAttack",
+    "RangedSpellAttack",
+    "RangedUnarmedAttack",
+    "RangedWeaponAttack"
+]
